@@ -1,0 +1,10 @@
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\obj\Debug\cw1 Serwer TCP.csprojAssemblyReference.cache
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\obj\Debug\cw1 Serwer TCP.csproj.CoreCompileInputs.cache
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\bin\Debug\cw1 Serwer TCP.exe.config
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\bin\Debug\cw1 Serwer TCP.exe
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\bin\Debug\cw1 Serwer TCP.pdb
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\obj\Debug\cw1 Serwer TCP.exe
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\obj\Debug\cw1 Serwer TCP.pdb
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\bin\Debug\cw1 Serwer TCP biblioteka.dll
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\bin\Debug\cw1 Serwer TCP biblioteka.pdb
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP\obj\Debug\cw1 Serwer TCP.csproj.CopyComplete
