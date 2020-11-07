@@ -1,0 +1,6 @@
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP biblioteka\bin\Debug\cw1 Serwer TCP biblioteka.dll
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP biblioteka\bin\Debug\cw1 Serwer TCP biblioteka.pdb
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP biblioteka\obj\Debug\cw1 Serwer TCP biblioteka.csprojAssemblyReference.cache
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP biblioteka\obj\Debug\cw1 Serwer TCP biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP biblioteka\obj\Debug\cw1 Serwer TCP biblioteka.dll
+C:\Users\eliks\Source\Repos\cw1 Serwer TCP\cw1 Serwer TCP biblioteka\obj\Debug\cw1 Serwer TCP biblioteka.pdb

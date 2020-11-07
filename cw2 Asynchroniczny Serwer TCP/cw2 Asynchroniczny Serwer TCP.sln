@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cw2 Asynchroniczny Serwer TCP", "cw1 Serwer TCP\cw2 Asynchroniczny Serwer TCP.csproj", "{E81FDA9B-F54F-4967-B738-07B76DC6081F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cw2 Asynchroniczny Serwer TCP biblioteka", "cw1 Serwer TCP biblioteka\cw2 Asynchroniczny Serwer TCP biblioteka.csproj", "{ECF307C0-8B52-4B36-82C8-D94B5952961C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81FDA9B-F54F-4967-B738-07B76DC6081F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81FDA9B-F54F-4967-B738-07B76DC6081F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81FDA9B-F54F-4967-B738-07B76DC6081F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81FDA9B-F54F-4967-B738-07B76DC6081F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF307C0-8B52-4B36-82C8-D94B5952961C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF307C0-8B52-4B36-82C8-D94B5952961C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF307C0-8B52-4B36-82C8-D94B5952961C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF307C0-8B52-4B36-82C8-D94B5952961C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4ED7652-82F5-42C8-AA79-7AEE42D4FC7C}
+	EndGlobalSection
+EndGlobal
